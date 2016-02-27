@@ -1,0 +1,16 @@
+.btn,button,input[type=button],input[type=submit]{outline:0px;text-decoration:none;display:inline-block;margin-bottom:0;font-family:proxima-nova,"Helvetica Neue",Helvetica,Verdana,Arial,sans-serif;border-radius:4px;vertical-align:middle;touch-action:manipulation;cursor:pointer;padding:6px 12px;border:1px solid transparent;text-shadow:0 1px 0 rgba(0,0,0,.2);box-shadow:inset 0 1px 0 rgba(255,255,255,.2);font-size:14px;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
+
+.rot:hover{background-color:#c9302c;border-color:#ac2925}
+.rot{background-color:#d9534f;border-color:#d43f3a;color:#fff}
+.gelb:hover{background-color:#FFDC00;border-color:#D1B400}
+.gelb{background-color:#FFFF00;border-color:#E8E418;color:#000}
+.grün:hover{background-color:#1F8766;border-color:#146D51}
+.grün{background-color:#1d9d74;border-color:#198764;color:#fff}
+.hellblau:hover{background-color:#287ACF;border-color:#2D89E8}
+.hellblau{background-color:#2E8DEF;border-color:#2C87E5;color:#fff}
+.dunkelblau:hover{background-color:#286090;border-color:#204d74}
+.dunkelblau{background-color:#337ab7;border-color:#2e6da4;color:#fff}
+.schwarz:hover{background-color:#000;border-color:#000}
+.schwarz{background-color:#000;border-color:#000;color:#fff}
+.orange:hover{background-color:#E59400;border-color:#7F5200}
+.orange{background-color:#FFA400;border-color:#E59400;color:#fff}
