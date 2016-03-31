@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="<?php echo htmlentities($sprache); ?>">
+<html>
 	<head>
 		<title>Pluto Shop</title>
 		<meta name="description" content="Trackhe.de / Webseite zum Presentieren meiner Designs und Web arbeiten / Portfolio" />
@@ -34,7 +34,7 @@
 
 	<button class="gelb">Button</button>
 	
-	<button class="grün">Button</button>
+	<button class="grÃ¼n">Button</button>
 
 	<button class="hellblau">Button</button>
 
