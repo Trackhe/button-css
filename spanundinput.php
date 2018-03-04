@@ -1,10 +1,11 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Pluto Shop</title>
-		<meta name="description" content="Trackhe.de / Webseite zum Presentieren meiner Designs und Web arbeiten / Portfolio" />
-		<meta name="creator" content="M. Nehring, Leonard">
-		<meta name="theme-color" content="#000011">
+		<title>Button CSS</title>
+		<meta name="description" content="CSS Button Template" />
+		<meta name="creator" content="M. Nehring">
+		<meta charset="utf-8">
+		<meta name="theme-color" content="#00001B">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="button.css">
 	</head>
@@ -29,12 +30,13 @@
 	</br></br>
 	
     </form>
-	<!-- Farben -->
+	<!-- Farben / Colors -->
+	<!-- Available Colors: rot, red, gelb, yellow, grün, green, hellblau, lightblue, dunkelblau, darkblue, schwarz, black, orange-->
 	<button class="rot">Button</button>
 
 	<button class="gelb">Button</button>
 	
-	<button class="grÃ¼n">Button</button>
+	<button class="grün">Button</button>
 
 	<button class="hellblau">Button</button>
 
@@ -43,6 +45,11 @@
 	<button class="schwarz">Button</button>
 
 	<button class="orange">Button</button>
+	</br></br>
+	<button class="red" disabled="disabled" >Button (disabled)</button>
 
+	<button class="red disabled" >Button (class disabled)</button>
+    <!-- Available: "deaktiviert, disabled"-->
+	
 	</body>
 </html>
